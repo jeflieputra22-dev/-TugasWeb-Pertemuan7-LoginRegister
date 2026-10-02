@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nama": "Adidtya Perdana",
+        "email": "adid@unimed.ac.id",
+        "password": "$2y$10$.3p3TBBE/PkjS45yQJgq/ea3PGBDSsMxhhpVLI/hMpmh8casU7wx2",
+        "created_at": "2026-09-06 10:30:00"
+    },
+    {
+        "id": 2,
+        "nama": "Budi Santoso",
+        "email": "budi@example.com",
+        "password": "$2y$10$U3.QfZpIL9alw0bsKwvB.uxbchclWV7hnT19Lf/hEkjhDwbM2HM5m",
+        "created_at": "2026-09-06 11:00:00"
+    }
+]
